@@ -1,21 +1,22 @@
 {
-  "name": "Baileys",
+  "name": "@fer2809fl/baileys",
   "version": "1.4.5",
-  "description": "Baileys By Melody Xz",
+  "description": "API de WhatsApp Web para Node.js",
   "keywords": [
     "baileys",
-    "melody",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
-    "multi-device"
+    "multi-device",
+    "websocket"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/Fer2809fl/Baileys",
   "repository": {
+    "type": "git",
     "url": "https://github.com/Fer2809fl/Baileys"
   },
   "license": "MIT",
-  "author": "Fernando",
+  "author": "Fer2809fl",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -91,6 +92,9 @@
     "sharp": {
       "optional": true
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "packageManager": "yarn@1.22.19",
   "engines": {
