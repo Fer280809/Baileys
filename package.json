@@ -1,5 +1,5 @@
 {
-  "name": "Delta",
+  "name": "Baileys",
   "version": "1.4.5",
   "description": "Baileys By Melody Xz",
   "keywords": [
@@ -12,10 +12,10 @@
   ],
   "homepage": "",
   "repository": {
-    "url": "https://github.com/Melody-Xz/Delta"
+    "url": "https://github.com/Fer280809/Baileys"
   },
   "license": "MIT",
-  "author": "Melody Xz",
+  "author": "Fernando",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
