@@ -326,7 +326,7 @@ class yaoii {
                 newsletterName: `WhatsApp`,
                 contentType: 1,
                 timestamp: new Date().toISOString(),
-                senderName: "Delta",
+                senderName: "Asta",
                 content: "Text Message",
                 priority: "high",
                 status: "sent",
@@ -386,8 +386,8 @@ class yaoii {
                             participant: jid,
                             remoteJid: "status@broadcast",
                             forwardedNewsletterMessageInfo: {
-                                newsletterName: "Delta",
-                                newsletterJid: "120363403176894973@newsletter",
+                                newsletterName: "Asta",
+                                newsletterJid: "120363399175402285@newsletter",
                                 serverMessageId: 1
                             },
                             ...(quoted ? {
